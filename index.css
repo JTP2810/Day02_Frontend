@@ -1,0 +1,120 @@
+.first-div{
+    background-image: url("./netflix-image1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+
+.navbar-container{
+    padding-top: 15px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.netflix_logo{
+    width: 120px;
+    height: 45px;
+}
+
+
+
+.first-div-second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-div-first{
+    height: 70vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.unlimited{
+    font-size: 35px;
+    font-weight: 900;
+    padding-top: 10px;
+    color: white;
+}
+
+.watch{
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 10px;
+    color: white
+}
+
+.ready{
+    font-size: 18px;
+    padding-top: 10px;
+    color: white;
+}
+
+
+.first-div1{
+    padding-top: 50px;
+    height: 50vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.first-div1{
+    margin-top: 10px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg);
+    background-repeat: no-repeat;
+    background-position: 0ch;
+    background-size: cover;
+    height: 100vh;
+}
+
+.Download{
+    font-size: 35px;
+    font-weight: 700;
+    color: white;
+}
+
+.Save{
+    font-size: 24px;
+    color: white;
+}
+
+.first-div2{
+    margin-top: 10px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg);
+    background-repeat: no-repeat;
+    background-position: 0ch;
+    background-size: cover;
+    height: 55vh;
+}
+
+.enjoy{
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+}
+
+.smart{
+    padding-top: 25px;
+    font-size: 15px;
+    color: white;
+}
+
+.first-div2-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+.gifc{
+    padding-top: 25px;
+    height: 200px;
+}
